@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+h2{
+  text-align: center;
+  font-style: italic;
+  font-family: vivaldi
+}
+p{
+  font-weight: bolder;
+}
+ul {
+  color: blue;
+}
+body {
+  line-height: 2em;
+}
